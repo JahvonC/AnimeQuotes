@@ -1,0 +1,26 @@
+* {
+    font-family: 'Space Crusaders', sans-serif;                                           
+}
+body { 
+    background: url(./assets/sunsetgif.gif) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#Main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+ button {
+    border: 25px outset rgb(55, 1, 1);
+ }
+
+ input {
+    font-size: xx-large;
+ }
+ 
